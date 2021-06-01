@@ -1,0 +1,2 @@
+# python_tensorrt_demo
+这是一个使用tensorrtpython接口进行分类网络inference的demo
